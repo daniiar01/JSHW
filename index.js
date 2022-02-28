@@ -33,12 +33,7 @@ if (10<1){
 // true || true && true
 // true
 
-// let i = confirm( "Луна спутник Сатурна?")
-// if (i= 'да' )  {
-//   n=0}
-// else  {
-//  console.log(n=1); 
-// }
+
 
 
 let n = 0
